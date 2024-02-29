@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Nesse projeto foi desenvolvido um clone da interface do Youtube.
 
 ## 💻 Github Pages
-[🔗 Clique aqui para acessar](https://jhessfrois.github.io/pinterest/)
+[🔗 Clique aqui para acessar](https://jhessfrois.github.io/youtube/)
 
 ## **🤍 Contato**
 
