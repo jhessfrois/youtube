@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Logo HTML e CSS na Prática - Rocketseat" src="https://i.imgur.com/GTsCczV.jpeg" width="300px" />
-</p> 
+</p>
 
 <p align="center">
     Página desenvolvida no evento HTML e CSS na Prática da Rocketseat.
